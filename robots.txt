@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /private/
-Crawl-delay: 5
+Disallow:
 
 Sitemap: https://ayraghazanfar.com/sitemap.xml
